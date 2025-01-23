@@ -1,0 +1,2 @@
+# pythonPublic
+Python Çalışmaları
